@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Одномерные массивы", "Одномерные массивы.csproj", "{6EC2E1F4-D271-448C-B4F2-659CF52C7B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EC2E1F4-D271-448C-B4F2-659CF52C7B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EC2E1F4-D271-448C-B4F2-659CF52C7B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EC2E1F4-D271-448C-B4F2-659CF52C7B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EC2E1F4-D271-448C-B4F2-659CF52C7B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A623C92-B25E-425A-8CA6-12B3D230227D}
+	EndGlobalSection
+EndGlobal

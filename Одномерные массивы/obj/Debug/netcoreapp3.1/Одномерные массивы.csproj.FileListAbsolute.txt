@@ -1,0 +1,14 @@
+C:\Users\админ\source\repos\Одномерные массивы\bin\Debug\netcoreapp3.1\Одномерные массивы.exe
+C:\Users\админ\source\repos\Одномерные массивы\bin\Debug\netcoreapp3.1\Одномерные массивы.deps.json
+C:\Users\админ\source\repos\Одномерные массивы\bin\Debug\netcoreapp3.1\Одномерные массивы.runtimeconfig.json
+C:\Users\админ\source\repos\Одномерные массивы\bin\Debug\netcoreapp3.1\Одномерные массивы.runtimeconfig.dev.json
+C:\Users\админ\source\repos\Одномерные массивы\bin\Debug\netcoreapp3.1\Одномерные массивы.dll
+C:\Users\админ\source\repos\Одномерные массивы\bin\Debug\netcoreapp3.1\Одномерные массивы.pdb
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.csproj.AssemblyReference.cache
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.AssemblyInfoInputs.cache
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.AssemblyInfo.cs
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.csproj.CoreCompileInputs.cache
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.dll
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.pdb
+C:\Users\админ\source\repos\Одномерные массивы\obj\Debug\netcoreapp3.1\Одномерные массивы.genruntimeconfig.cache
