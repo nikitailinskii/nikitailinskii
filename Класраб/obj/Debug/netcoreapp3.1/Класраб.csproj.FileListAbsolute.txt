@@ -1,0 +1,14 @@
+E:\VisualJob\Класраб\bin\Debug\netcoreapp3.1\Класраб.exe
+E:\VisualJob\Класраб\bin\Debug\netcoreapp3.1\Класраб.deps.json
+E:\VisualJob\Класраб\bin\Debug\netcoreapp3.1\Класраб.runtimeconfig.json
+E:\VisualJob\Класраб\bin\Debug\netcoreapp3.1\Класраб.runtimeconfig.dev.json
+E:\VisualJob\Класраб\bin\Debug\netcoreapp3.1\Класраб.dll
+E:\VisualJob\Класраб\bin\Debug\netcoreapp3.1\Класраб.pdb
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.csproj.AssemblyReference.cache
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.AssemblyInfoInputs.cache
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.AssemblyInfo.cs
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.csproj.CoreCompileInputs.cache
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.dll
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.pdb
+E:\VisualJob\Класраб\obj\Debug\netcoreapp3.1\Класраб.genruntimeconfig.cache
