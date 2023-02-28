@@ -1,0 +1,13 @@
+C:\Users\KAB35-15\Desktop\clas\Masarr\bin\Debug\netcoreapp3.1\Masarr.exe
+C:\Users\KAB35-15\Desktop\clas\Masarr\bin\Debug\netcoreapp3.1\Masarr.deps.json
+C:\Users\KAB35-15\Desktop\clas\Masarr\bin\Debug\netcoreapp3.1\Masarr.runtimeconfig.json
+C:\Users\KAB35-15\Desktop\clas\Masarr\bin\Debug\netcoreapp3.1\Masarr.runtimeconfig.dev.json
+C:\Users\KAB35-15\Desktop\clas\Masarr\bin\Debug\netcoreapp3.1\Masarr.dll
+C:\Users\KAB35-15\Desktop\clas\Masarr\bin\Debug\netcoreapp3.1\Masarr.pdb
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.csprojAssemblyReference.cache
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.AssemblyInfoInputs.cache
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.AssemblyInfo.cs
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.csproj.CoreCompileInputs.cache
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.dll
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.pdb
+C:\Users\KAB35-15\Desktop\clas\Masarr\obj\Debug\netcoreapp3.1\Masarr.genruntimeconfig.cache
